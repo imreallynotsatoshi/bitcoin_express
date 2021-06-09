@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"bitcoinexpress.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"bitcoinexpress.sol": {
+			"keccak256": "0xe3b291f43d54c29a3f4e8c2df3fe06f16a649fdf0125852a562f5e10908910a8",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://56e5d11f9a4ed41ae98ef75f359aa1fa3bad789ebbddefb63e1616ae26f5d300",
+				"dweb:/ipfs/QmVQaKcQiddVsv4CK2eEKgBWoVJEvo4HXrywEpDVMQBcMf"
+			]
+		}
+	},
+	"version": 1
+}
